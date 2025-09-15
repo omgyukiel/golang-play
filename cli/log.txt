@@ -5,6 +5,7 @@
 2025-09-15 08:33:10 ERROR Failed to connect to external API: timeout after 30 seconds
 2025-09-15 08:33:11 INFO Retrying API connection attempt 1 of 3
 2025-09-15 08:34:05 INFO Processing batch job: data_export_2025091508
-2025-09-15 08:35:30 CRITICAL Disk space low on /var/log partition: 92% full
+2025-09-15 08:35:30 WARN Disk space low on /var/log partition: 92% full
 2025-09-15 08:36:18 DEBUG Cache hit ratio: 94.2% for the last hour
+2025-09-15 08:36:18 CRITICAL Critical kitchen error: hot pockets are smoking in the oven
 2025-09-15 08:37:42 CRITICAL Critical system error: out of memory, shutting down gracefully
