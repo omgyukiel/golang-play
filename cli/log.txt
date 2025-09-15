@@ -1,0 +1,10 @@
+2025-09-15 08:30:15 INFO Application started successfully
+2025-09-15 08:30:16 DEBUG Database connection established on port 5432
+2025-09-15 08:31:22 WARN Memory usage is at 85% capacity
+2025-09-15 08:32:45 INFO User authentication successful for user: john.doe@example.com
+2025-09-15 08:33:10 ERROR Failed to connect to external API: timeout after 30 seconds
+2025-09-15 08:33:11 INFO Retrying API connection attempt 1 of 3
+2025-09-15 08:34:05 INFO Processing batch job: data_export_2025091508
+2025-09-15 08:35:30 CRITICAL Disk space low on /var/log partition: 92% full
+2025-09-15 08:36:18 DEBUG Cache hit ratio: 94.2% for the last hour
+2025-09-15 08:37:42 CRITICAL Critical system error: out of memory, shutting down gracefully
